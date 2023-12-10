@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @saumondeluxe
+- 👀 I’m interested in AI thingz
+- 🌱 I’m currently learning react / next
+- 🔥 I'm currently working on discordjs bot and python things
+- 📫 How to reach me `saumonduluxe` on discord
